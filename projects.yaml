@@ -768,6 +768,11 @@ projects:
     home_url: https://waf.io/
     repo_url: https://gitlab.com/ita1024/waf
     tags: ["build"]
+  - name: Pants
+    home_url: https://www.pantsbuild.org/index.html
+    https://github.com/pantsbuild/pants
+    desc: Build system designed for monorepi
+    tags: ["build", "monorepo"]
 
 ## Shells
   - name: Oil
