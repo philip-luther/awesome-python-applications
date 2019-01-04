@@ -31,6 +31,28 @@
 * https://github.com/senaite/senaite.lims / https://github.com/bikalims/bika.lims
 * https://github.com/LinOTP/LinOTP
 
+## AlternativeTo Trawl
+
+https://alternativeto.net/software/cutecoin/ - need more review
+https://alternativeto.net/software/pince/ - added
+https://alternativeto.net/software/dontpanic/ - discontinued/offline
+https://alternativeto.net/software/outspline/ - bit too small
+https://alternativeto.net/software/dbpedia/ - mostly not python, lots of disparate components
+https://alternativeto.net/software/meshroom/ -
+https://alternativeto.net/software/magic-wormhole/
+https://alternativeto.net/software/bms/
+https://alternativeto.net/software/fame-automates-malware-evaluation/
+https://alternativeto.net/software/space-shooter/
+https://alternativeto.net/software/jam-py-postfix-aliases/
+https://alternativeto.net/software/term2048/
+https://alternativeto.net/software/scour/
+https://alternativeto.net/software/shreddit/
+https://alternativeto.net/software/bcc/
+https://alternativeto.net/software/stoq/
+https://alternativeto.net/software/activitywatch/
+https://alternativeto.net/software/launchpad/
+https://alternativeto.net/software/netdata/
+
 ## Pages scoured
 
 * https://wiki.python.org/moin/PyQt/SomeExistingApplications
