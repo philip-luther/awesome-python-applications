@@ -2,7 +2,7 @@ import datetime
 import glom
 import json
 import subprocess
-import time
+
 from apatite.cli import ProcessResult
 
 instr = ('Download from: https://github.com/src-d/go-license-detector/releases,',
